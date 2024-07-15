@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UAS-Klien/static/css/main.874af5a1.css",
+    "main.js": "/UAS-Klien/static/js/main.2c46aa89.js",
+    "static/js/453.276b4b86.chunk.js": "/UAS-Klien/static/js/453.276b4b86.chunk.js",
+    "index.html": "/UAS-Klien/index.html",
+    "main.874af5a1.css.map": "/UAS-Klien/static/css/main.874af5a1.css.map",
+    "main.2c46aa89.js.map": "/UAS-Klien/static/js/main.2c46aa89.js.map",
+    "453.276b4b86.chunk.js.map": "/UAS-Klien/static/js/453.276b4b86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.874af5a1.css",
+    "static/js/main.2c46aa89.js"
+  ]
+}
