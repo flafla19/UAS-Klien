@@ -1,0 +1,20 @@
+{
+    "earthquakes": [
+      { "title": "Gempa", "magnitude": 5.2, "location": "Semarang", "date": "2023-01-01" },
+      { "title": "Gempa", "magnitude": 4.8, "location": "Semarang", "date": "2023-02-01" }
+    ],
+    "news": [
+      { "title": "Gempa Bumi Terkini M 5,0 Guncang Wakatobi Sultra, Tak Berpotensi Tsunami", "description": "Gempa bumi berkekuatan magnitudo 5,0 mengguncang wilayah kabupaten wakatobi, Sulawesi tenggara. Pusat gempa Wakatobi tersebut berada diatas laut dan tidak berpotensi tsunami.", "url": "https://www.detik.com/sulsel/berita/d-7436318/gempa-bumi-terkini-m-5-0-guncang-wakatobi-sultra-tak-berpotensi-tsunami" ,"image": "https://akcdn.detik.net.id/community/media/visual/2023/02/10/ilustrasi-gempa-bumi-di-indonesia_169.jpeg?w=700&q=90" },
+      { "title": "Gempa M 3,9 Terjadi di Jembrana Bali", "description": "BMKG mengatakan gempa terjadi pada Kamis (11/7/2024) pukul 04.35 WIB. Gempa tersebut di koordinat 8,99 lintang selatan, 114,45 bujur timur", "url": "https://news.detik.com/berita/d-7433125/gempa-m-3-9-terjadi-di-jembrana-bali" ,"image": "https://akcdn.detik.net.id/community/media/visual/2023/02/13/ilustrasi-gempa_169.jpeg?w=700&q=90" }
+    ],
+    "tips": [
+    { "id": 1, "title": "Persiapan Sebelum Gempa", "description": "1. Buat rencana darurat keluarga.\n2. Pastikan semua anggota keluarga tahu cara mematikan gas, air, dan listrik.\n3. Siapkan tas darurat yang berisi makanan, air, obat-obatan, dan perlengkapan penting lainnya.\n4. Pastikan perabotan yang berat dan tinggi terpasang dengan baik ke dinding." },
+    { "id": 2, "title": "Tindakan Saat Gempa Terjadi", "description": "1. Jika berada di dalam ruangan, berlindung di bawah meja atau perabotan yang kuat.\n2. Jauhkan diri dari jendela, cermin, dan benda-benda yang bisa jatuh.\n3. Jika berada di luar, jauhi bangunan, tiang listrik, dan benda-benda yang bisa jatuh.\n4. Jika berada di dalam kendaraan, berhentilah di tempat yang aman dan tetap di dalam kendaraan sampai guncangan berhenti." },
+    { "id": 3, "title": "Langkah Setelah Gempa", "description": "1. Periksa diri sendiri dan anggota keluarga untuk luka-luka.\n2. Periksa kerusakan pada bangunan tempat tinggal.\n3. Jangan menyalakan api sampai Anda yakin tidak ada kebocoran gas.\n4. Dengarkan informasi dari pihak berwenang dan ikuti instruksi mereka.\n5. Bersiaplah untuk kemungkinan gempa susulan." }
+  ],
+    "history": [
+      { "title": "Sejarah Gempa Kuat Yang Ada Di Jateng", "description": "Kepala Badan Mitigasi Gempa Bumi dan Tsunami pada Badan Meteorologi Klimatologi dan Geofisika (BMKG), Daryono membeberkan sejumlah data terkait gempa kuat dan merusak yang pernah terjadi di Jawa Tengah. Berdasarkan catatan sejarah, gempa kuat dan merusak di Jawa Tengah sudah terjadi sejak 1849.", "url": "https://nasional.okezone.com/read/2021/10/23/337/2490513/catatan-sejarah-gempa-kuat-dan-merusak-yang-pernah-guncang-jateng" ,"image": "https://jatengprov.go.id/wp-content/uploads/2018/04/7C1A0222-1.jpg" },
+      { "title": "Sejarah Gempa Besar di Indonesia", "description": "Indonesia adalah salah satu negara yang sering diguncang gempa bumi. Berada di kawasan Ring of Fire atau Cincin Api Pasifik, menjadi faktor utama gempa bumi sering melanda negara ini. Cincin Api Pasifik mengelilingi hampir seluruh wilayah di Indonesia. Tak heran, apabila fenomena gempa bumi kerap kali melanda negara berpenduduk 273,8 juta jiwa ini.", "url": "https://www.kompas.com/sains/read/2023/02/22/080200223/sejarah-gempa-besar-di-indonesia?page=all" ,"image": "https://asset.kompas.com/crops/vxdKgSiJrZoK5ipaqJSuV2F5uNY=/98x4:677x390/1200x800/data/photo/2014/12/25/2215455tsunami-aceh-hoshiko780x390.jpg" }
+    ]
+  }
+  
